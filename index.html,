@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoyo's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <h1>Yoyo - Cyber Security Engineer</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi! I'm Yoyo, a passionate Cyber Security Engineer. I specialize in vulnerability analysis, penetration testing, and security auditing. With years of experience in securing networks and systems, I ensure digital safety for businesses and individuals.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Penetration Testing</li>
+            <li>Network Security</li>
+            <li>Threat Analysis</li>
+            <li>Cloud Security</li>
+            <li>Incident Response</li>
+            <li>Ethical Hacking</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Project 1 - Vulnerability Assessment Tool</a></li>
+            <li><a href="#">Project 2 - Penetration Testing Script</a></li>
+            <li><a href="#">Project 3 - Secure Cloud Architecture</a></li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: yoyo@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Yoyo - Cyber Security Engineer</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
